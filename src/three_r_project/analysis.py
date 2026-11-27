@@ -9,4 +9,4 @@ def hello_world(message):
     logger.info("This is INFO level log message")
     logger.warning("This is WARN level log message")
     logger.error("This is ERROR level log message")
-    return f"Hello world!: {message}"
+    return f"hi: {message}"
